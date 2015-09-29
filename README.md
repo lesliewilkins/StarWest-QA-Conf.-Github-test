@@ -9,4 +9,4 @@ Test repository during StarWest QA conference.
 2. Another entry
 3. Third entry
 
-[What does this do?]
+[link] (www.example.com)
