@@ -12,3 +12,5 @@ Test repository during StarWest QA conference.
 [Hyperlink HERE] (www.example.com)
 
 ```javascript
+var foo = 10 + '20';
+```
