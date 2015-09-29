@@ -9,4 +9,4 @@ Test repository during StarWest QA conference.
 2. Another entry
 3. Third entry
 
-[link] (www.example.com)
+[Hyperlink HERE] (www.example.com)
