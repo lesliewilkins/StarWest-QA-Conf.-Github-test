@@ -6,3 +6,7 @@ Test repository during StarWest QA conference.
 **NOTE: if you place some stars around a phrase, it will be bolded**
 
 1. The start of a number list
+2. Another entry
+3. Third entry
+
+[What does this do?]
