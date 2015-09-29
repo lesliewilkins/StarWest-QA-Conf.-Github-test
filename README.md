@@ -5,3 +5,4 @@ Test repository during StarWest QA conference.
 ### This is even SMALLER
 **NOTE: if you place some stars around a phrase, it will be bolded**
 
+1. The start of a number list
